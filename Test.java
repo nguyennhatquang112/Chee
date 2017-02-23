@@ -18,6 +18,8 @@ public class APCreateGoldDTO implements Serializable {
     /** SerialVersionUID */
     private static final long serialVersionUID = 1L;
 
+    //Quang sua lan 1
+
     private int msgCode;
     private String msgValue;
     private ColGold colGold;
